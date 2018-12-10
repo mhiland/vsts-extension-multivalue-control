@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1.0,
-    "id": "vsts-extensions-multivalue-control",
+    "id": "vsts-extensions-multivalue-control-mh",
     "version": "2.2.25",
     "name": "Multivalue control",
     "description": "A work item form control which allows selection of multiple values.",
-    "publisher": "ms-devlabs",
+    "publisher": "ms-devlabs-mh",
     "icons": {
         "default": "img/logo.png"
     },

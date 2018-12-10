@@ -1,3 +1,4 @@
 {
-    "public": true
+    "public": true,
+    "baseUri": "http://tfs2017:8080/tfs/_apis/public/gallery/publisher/ms-devlabs-mh/extension/vsts-extensions-multivalue-control-mh/2.2.25/assetbyname"
 }
